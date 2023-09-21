@@ -1,5 +1,7 @@
 #include <iostream>
 
+//commit próba, ezt töröld ki bro
+
 constexpr int N_ELEMENTS = 100;
 
 int main()
