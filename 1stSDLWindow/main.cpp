@@ -12,6 +12,7 @@ int main(int argc, char* argv[])
 
 	SDL_RenderPresent(renderer);
 	//valami
+	//mégvalamikomment
 	SDL_Delay(3000);
 	system("pause");
 	return 0;
